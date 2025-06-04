@@ -46,3 +46,30 @@ h1 {
 .testo_evidenziato{
     background-color: yellow;
 }
+ul{
+    padding-left: 20px;
+}
+.head{
+    background-color: #4ea0ff;
+    color: white;
+    font-weight: bold;
+}
+
+.color_row{
+    background-color:rgb(129, 178, 211) ;
+}
+
+.table{
+    text-align: left;
+    border-collapse: collapse;
+}
+.width_coloumn{
+    width: 20%;
+}
+
+.text_color{
+    color: rgba(97, 96, 96, 0.637);
+    font-weight: bold;
+    
+}
+
