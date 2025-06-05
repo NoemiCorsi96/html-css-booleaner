@@ -1,0 +1,99 @@
+/*Questo è il css per il Bonus*/
+#box_centrato{
+    max-width: 1020px;
+    margin: auto;
+}
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+}
+
+#logo {
+    width: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    line-height: 1.0;
+}
+
+.autore{
+    margin-top: 3px;
+    color: slategray;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 0.8;
+}
+
+.data_autore{
+    font-weight: normal;
+    font-size: 10px;
+    color: slategray;
+}
+
+.colore_testo{
+    color: #4ea0ff;
+}
+
+#didascalia{
+    font-size: 11px;
+
+}
+
+.testo_evidenziato{
+    background-color: yellow;
+}
+ul{
+    padding-left: 20px;
+}
+.head{
+    background-color: #4ea0ff;
+    color: white;
+    font-weight: bold;
+}
+
+.color_row{
+    background-color:rgb(129, 178, 211) ;
+}
+
+.table{
+    text-align: left;
+    border-collapse: collapse;
+}
+.width_coloumn{
+    width: 20%;
+}
+
+.text_color{
+    color: rgba(97, 96, 96, 0.637);
+    font-weight: bold;
+    
+}
+
+.box{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 240px;
+    height: 240px;
+    text-align: center;
+    
+}
+
+#sfondo1{
+    background-image: url(../img/monitor.jpg);
+   
+}
+
+#sfondo2{
+    background-image: url(../img/graph.jpg);
+   
+}
